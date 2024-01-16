@@ -1,0 +1,5 @@
+export {docSpec} from "./doc"
+export {blockContainerSpec} from "./block-container"
+export {blockContentSpec} from "./block-content"
+export { paragraphSpec } from "./paragraph"
+export {textSpec} from "./text"
